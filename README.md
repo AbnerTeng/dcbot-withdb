@@ -34,4 +34,4 @@ pip install -r requirements.txt
 
 ## Other
 
-[Abner & Angela's dcbot token](https://drive.google.com/file/d/1g2jWUs4IvKqFKP7mt1NBfYiDKxK2FLhm/view?usp=sharing)
+[Abner & Angela's dcbot token](https://docs.google.com/document/d/17DmzwXDUiyT5pAtvVEgb9hV7gfgjlujSopAtt0c8Ymo/edit?usp=drive_link)
