@@ -1,0 +1,3 @@
+PUBLIC_KEY = "0ab604b3c58c3dc59ae7a2c3dcb1f7347d618439c3c625adcb127b168697d185"
+TOKEN = ""
+DB_NAME = "money.db"
